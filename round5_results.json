@@ -1,0 +1,38 @@
+{
+  "g1_word_wrap": {
+    "W_estimated_glyphs": 51.0,
+    "line_length_median": 51.0,
+    "line_length_mean": 49.514472965592574,
+    "line_length_std": 17.870191053041584,
+    "line_length_cv": 0.36090843712422255,
+    "corr_len_lastword": -0.11324737216048755,
+    "boundary_f1_real": 0.13287205512484165,
+    "boundary_f1_shuffle": 0.14808331311691747
+  },
+  "g2_pacf": {
+    "memory_order": 5,
+    "ci95": 0.0044807755156090435,
+    "n_glyphs": 191340
+  },
+  "g3_sufficiency": {
+    "real_metrics": {
+      "n_words": 31005,
+      "n_types": 7181,
+      "ttr": 0.23160780519271085,
+      "zipf_slope": -0.5281569861916466,
+      "H_2_1": 2.137904462737232,
+      "dup_bigram_pct": 6.5035181319106155,
+      "mean_wlen": 5.171262699564586
+    },
+    "synth_3gram_metrics": {
+      "n_words": 30949,
+      "n_types": 7252,
+      "ttr": 0.23432097967624155,
+      "zipf_slope": -0.5425010729391703,
+      "H_2_1": 2.1338068335752007,
+      "dup_bigram_pct": 6.486874835838882,
+      "mean_wlen": 5.1825584025332
+    },
+    "mean_rel_error": 0.009106675557847914
+  }
+}

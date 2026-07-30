@@ -1,5 +1,11 @@
+# Часть 1 (пять гипотез, voi/)
 numpy>=1.26
 scipy>=1.11
 scikit-learn>=1.4
 pandas>=2.1
 umap-learn>=0.5.5
+
+# Части 2–7 (LM и углублённый анализ, voynich_lm/)
+torch>=2.0            # nanoGPT-декодер; CUDA опциональна (работает и на CPU)
+matplotlib>=3.7       # все графики parts 2–7
+plotly>=5.0           # интерактивная 3D-карта памяти (figures/G_3d_memory.html)
