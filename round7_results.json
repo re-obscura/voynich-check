@@ -1,0 +1,251 @@
+{
+  "k1_nomenclator": {
+    "latin": [
+      {
+        "voyn": "chey",
+        "lang": "quos",
+        "dist": 0.02,
+        "voyn_rank": 7,
+        "lang_rank": 4
+      },
+      {
+        "voyn": "aiin",
+        "lang": "quos",
+        "dist": 0.13,
+        "voyn_rank": 5,
+        "lang_rank": 4
+      },
+      {
+        "voyn": "shey",
+        "lang": "quos",
+        "dist": 0.16,
+        "voyn_rank": 15,
+        "lang_rank": 13
+      },
+      {
+        "voyn": "ar",
+        "lang": "quos",
+        "dist": 0.36,
+        "voyn_rank": 10,
+        "lang_rank": 7
+      },
+      {
+        "voyn": "or",
+        "lang": "quos",
+        "dist": 0.39,
+        "voyn_rank": 11,
+        "lang_rank": 7
+      },
+      {
+        "voyn": "qokedy",
+        "lang": "quos",
+        "dist": 0.61,
+        "voyn_rank": 13,
+        "lang_rank": 16
+      },
+      {
+        "voyn": "qokeey",
+        "lang": "quos",
+        "dist": 0.71,
+        "voyn_rank": 9,
+        "lang_rank": 16
+      },
+      {
+        "voyn": "chol",
+        "lang": "quos",
+        "dist": 1.04,
+        "voyn_rank": 6,
+        "lang_rank": 4
+      },
+      {
+        "voyn": "ol",
+        "lang": "quos",
+        "dist": 1.09,
+        "voyn_rank": 3,
+        "lang_rank": 3
+      },
+      {
+        "voyn": "qokain",
+        "lang": "quos",
+        "dist": 1.19,
+        "voyn_rank": 12,
+        "lang_rank": 16
+      }
+    ],
+    "italian": [
+      {
+        "voyn": "shey",
+        "lang": "lui",
+        "dist": 0.09,
+        "voyn_rank": 15,
+        "lang_rank": 11
+      },
+      {
+        "voyn": "chey",
+        "lang": "lui",
+        "dist": 0.1,
+        "voyn_rank": 7,
+        "lang_rank": 6
+      },
+      {
+        "voyn": "aiin",
+        "lang": "lui",
+        "dist": 0.17,
+        "voyn_rank": 5,
+        "lang_rank": 6
+      },
+      {
+        "voyn": "ol",
+        "lang": "lui",
+        "dist": 0.48,
+        "voyn_rank": 3,
+        "lang_rank": 3
+      },
+      {
+        "voyn": "chol",
+        "lang": "lui",
+        "dist": 0.49,
+        "voyn_rank": 6,
+        "lang_rank": 6
+      },
+      {
+        "voyn": "chedy",
+        "lang": "lui",
+        "dist": 0.93,
+        "voyn_rank": 2,
+        "lang_rank": 4
+      },
+      {
+        "voyn": "ar",
+        "lang": "lui",
+        "dist": 1.01,
+        "voyn_rank": 10,
+        "lang_rank": 16
+      },
+      {
+        "voyn": "qokeey",
+        "lang": "lui",
+        "dist": 1.04,
+        "voyn_rank": 9,
+        "lang_rank": 18
+      },
+      {
+        "voyn": "daiin",
+        "lang": "lui",
+        "dist": 1.11,
+        "voyn_rank": 1,
+        "lang_rank": 2
+      },
+      {
+        "voyn": "or",
+        "lang": "lui",
+        "dist": 1.17,
+        "voyn_rank": 11,
+        "lang_rank": 5
+      }
+    ],
+    "english": [
+      {
+        "voyn": "shey",
+        "lang": "behold",
+        "dist": 0.17,
+        "voyn_rank": 15,
+        "lang_rank": 12
+      },
+      {
+        "voyn": "or",
+        "lang": "behold",
+        "dist": 0.31,
+        "voyn_rank": 11,
+        "lang_rank": 5
+      },
+      {
+        "voyn": "ar",
+        "lang": "behold",
+        "dist": 0.34,
+        "voyn_rank": 10,
+        "lang_rank": 4
+      },
+      {
+        "voyn": "chey",
+        "lang": "behold",
+        "dist": 0.61,
+        "voyn_rank": 7,
+        "lang_rank": 6
+      },
+      {
+        "voyn": "ol",
+        "lang": "behold",
+        "dist": 0.62,
+        "voyn_rank": 3,
+        "lang_rank": 3
+      },
+      {
+        "voyn": "qokedy",
+        "lang": "behold",
+        "dist": 0.69,
+        "voyn_rank": 13,
+        "lang_rank": 29
+      },
+      {
+        "voyn": "chol",
+        "lang": "behold",
+        "dist": 0.9,
+        "voyn_rank": 6,
+        "lang_rank": 6
+      },
+      {
+        "voyn": "aiin",
+        "lang": "behold",
+        "dist": 0.95,
+        "voyn_rank": 5,
+        "lang_rank": 3
+      },
+      {
+        "voyn": "qokain",
+        "lang": "behold",
+        "dist": 0.97,
+        "voyn_rank": 12,
+        "lang_rank": 29
+      },
+      {
+        "voyn": "qokaiin",
+        "lang": "behold",
+        "dist": 0.99,
+        "voyn_rank": 14,
+        "lang_rank": 36
+      }
+    ]
+  },
+  "k2_syllable": {
+    "latin": 0.46200919676856855,
+    "italian": 0.63233606008395,
+    "english": 0.37268916907090094
+  },
+  "k3_word_length": {
+    "latin": 0.06790965971113756,
+    "italian": 0.11331470365316262,
+    "english": 0.12181666851057574
+  },
+  "k4_cross_ppl": {
+    "latin": {
+      "voynich_ppl": 13.375554991448167,
+      "shuffle_ppl": 13.376446171361698
+    },
+    "italian": {
+      "voynich_ppl": 12.639738039795564,
+      "shuffle_ppl": 12.642531560059364
+    },
+    "english": {
+      "voynich_ppl": 11.151444532894708,
+      "shuffle_ppl": 11.151444532894688
+    }
+  },
+  "k5_bound": {
+    "observed_word_entropy_bits": 10.382191308075155,
+    "effective_vocab": 1334.5996433372172,
+    "natural_lang_entropy_bits": 9.0,
+    "ratio_voyn_to_natural": 1.1535768120083505,
+    "interpretation": "словарь Войнича вмещает смысловой объём, эквивалентный 115% естественного языка"
+  }
+}

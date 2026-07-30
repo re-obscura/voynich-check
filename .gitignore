@@ -11,9 +11,13 @@ env/
 # Скачиваемые данные (не в репозитории — тянутся fetch_data.py при первом запуске)
 data/
 
+# Обученные модели (перегенерируются python -m voynich_lm.run_experiments)
+checkpoints/
+
 # Артефакты запуска
 results.json
 *.log
+logs/
 
 # OS / IDE
 .DS_Store
